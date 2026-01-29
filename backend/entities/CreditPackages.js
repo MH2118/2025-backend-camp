@@ -7,6 +7,7 @@
  * - credit_amount: 包含堂數
  * - price: 方案價格
  * - createdAt: 建立時間
+ * 
  */
 
 const { EntitySchema } = require('typeorm')
